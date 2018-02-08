@@ -1,0 +1,11 @@
+layout:
+  nav:
+    index: inicio
+    index_url: ''
+  value: find me at /locales/en.yml
+pages:
+  index:
+    title: index of website
+    url: /
+    url_name: 'index'
+    head_title: index of website find me at /locales/en.yml

@@ -1,0 +1,11 @@
+layout:
+  nav:
+    index: inicio
+    index_url: inicio
+  value: estoy en /locales/es.yml
+pages:
+  index:
+    title: inicio del website
+    url: /
+    url_name: 'inicio'
+    head_title: index of website, estoy en /locales/en.yml
